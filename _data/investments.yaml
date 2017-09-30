@@ -1,132 +1,135 @@
-- Name: Abl Schools
-  Date: '2017'
-  Notes: $7.5 million in Series A
-- Name: Clark
-  Date: '2017'
-  Notes: $2.5 million in seed fungind
-- Name: Vidcode
-  Date: '2017'
-  Notes: $1.5 million in seed funding
-- Name: Trilogy Education Services
-  Date: '2017'
-  Notes: $30 million in Series A
-- Name: Care Academy
-  Date: '2017'
-  Notes: $1.5 million in seed funding
-- Name: Voxy
-  Date: '2017'
-  Notes: $12 million in Series C
-- Name: Knowledge to Practice
-  Date: '2017'
-  Notes: $6.5 million in Series A
-- Name: MissionU
-  Date: '2016'
-  Notes: $3 million in seed funding
-- Name: American Prison Data Systems
-  Date: '2016'
-  Notes: Undisclosed
-- Name: Vidcode
-  Date: '2016'
-  Notes: '$120,000 in seed funding'
-- Name: Degreed
-  Date: '2016'
-  Notes: $3.5 million in Series B
-- Name: Everfi
-  Date: '2016'
-  Notes: $40 million in Series C
-- Name: Flocabulary
-  Date: '2016'
-  Notes: $1.5 million in convertible note
-- Name: Sixup
-  Date: '2016'
-  Notes: $5 million in seed funding
-- Name: Noodle Markets
-  Date: '2016'
-  Notes: $3 million in seed funding
-- Name: Degreed
-  Date: '2016'
-  Notes: $21 million in Series B
-- Name: Allovue
-  Date: '2015'
-  Notes: $5.1 million in Series A
-- Name: Civitas Learning
-  Date: '2015'
-  Notes: $35 million in Series D
-- Name: BrightBytes
-  Date: '2015'
-  Notes: $33 million in Series C
-- Name: NoRedInk
-  Date: '2015'
-  Notes: $6 million in Series A
-- Name: Civitas Learning
-  Date: '2015'
-  Notes: $16.2 million in Series C
-- Name: Ace Learning Company
-  Date: '2014'
-  Notes: Undisclosed
-- Name: Neverware
-  Date: '2014'
-  Notes: $6.58 million in Series A
-- Name: Rethink Autism
-  Date: '2014'
-  Notes: $10 million in Series C
-- Name: BrightBytes
-  Date: '2014'
-  Notes: $15 million in Series B
-- Name: General Assembly
-  Date: '2014'
-  Notes: $35 million in Series C
-- Name: Smarterer
-  Date: '2014'
-  Notes: $1.6 million in seed funding
-- Name: Bridge International Academies
-  Date: '2014'
-  Notes: $6 million in Series A
-- Name: 2U Inc.
-  Date: '2013'
-  Notes: $5.1 million in Series D
-- Name: Smarterer
-  Date: '2013'
-  Notes: Undisclosed
-- Name: Ellevation
-  Date: '2013'
-  Notes: $2.35 million in Series A
-- Name: BrightBytes
-  Date: '2013'
-  Notes: $2.5 million in Series A
 - Name: Engrade
-  Date: '2013'
-  Notes: $5 million in Series B
-- Name: Voxy
-  Date: '2013'
-  Notes: $10.7 million in Series B
-- Name: Pathbrite
-  Date: '2013'
-  Notes: $4 million in Series A
-- Name: Hapara
+  Date: '2011'
+  Notes: Undisclosed
+- Name: Rethink Autism
+  Date: '2011'
+  Notes: Undisclosed
+- Name: Education Elements
   Date: '2012'
-  Notes: $4.5 million in Series A
+  Notes: $6 million in Series A
+- Name: Engrade
+  Date: '2012'
+  Notes: $3 million in Series A
 - Name: Everfi
   Date: '2012'
   Notes: $10 million in Series B
+- Name: Hapara
+  Date: '2012'
+  Notes: $4.5 million in Series A
 - Name: Pathbrite
   Date: '2012'
   Notes: $2.5 million in Series A
 - Name: Smarterer
   Date: '2012'
   Notes: $1.75 million in Series A
-- Name: Engrade
-  Date: '2012'
-  Notes: $3 million in Series A
 - Name: StraighterLine
   Date: '2012'
   Notes: $10 million in Series B
-- Name: Education Elements
-  Date: '2012'
-  Notes: $6 million in Series A
+- Name: 2U Inc.
+  Date: '2013'
+  Notes: $5.1 million in Series D
+- Name: BrightBytes
+  Date: '2013'
+  Notes: $2.5 million in Series A
+- Name: Ellevation
+  Date: '2013'
+  Notes: $2.35 million in Series A
 - Name: Engrade
-  Date: '2011'
+  Date: '2013'
+  Notes: $5 million in Series B
+- Name: Pathbrite
+  Date: '2013'
+  Notes: $4 million in Series A
+- Name: Smarterer
+  Date: '2013'
   Notes: Undisclosed
+- Name: Voxy
+  Date: '2013'
+  Notes: $10.7 million in Series B
+- Name: Ace Learning Company
+  Date: '2014'
+  Notes: Undisclosed
+- Name: Bridge International Academies
+  Date: '2014'
+  Notes: $6 million in Series A
+- Name: BrightBytes
+  Date: '2014'
+  Notes: $15 million in Series B
+- Name: General Assembly
+  Date: '2014'
+  Notes: $35 million in Series C
+- Name: Neverware
+  Date: '2014'
+  Notes: $6.58 million in Series A
 - Name: Rethink Autism
-  Date: '2011'
+  Date: '2014'
+  Notes: $10 million in Series C
+- Name: Smarterer
+  Date: '2014'
+  Notes: $1.6 million in seed funding
+- Name: Allovue
+  Date: '2015'
+  Notes: $5.1 million in Series A
+- Name: BrightBytes
+  Date: '2015'
+  Notes: $33 million in Series C
+- Name: Civitas Learning
+  Date: '2015'
+  Notes: $35 million in Series D
+- Name: Civitas Learning
+  Date: '2015'
+  Notes: $16.2 million in Series C
+- Name: NoRedInk
+  Date: '2015'
+  Notes: $6 million in Series A
+- Name: American Prison Data Systems
+  Date: '2016'
   Notes: Undisclosed
+- Name: Degreed
+  Date: '2016'
+  Notes: $3.5 million in Series B
+- Name: Degreed
+  Date: '2016'
+  Notes: $21 million in Series B
+- Name: Everfi
+  Date: '2016'
+  Notes: $40 million in Series C
+- Name: Flocabulary
+  Date: '2016'
+  Notes: $1.5 million in convertible note
+- Name: MissionU
+  Date: '2016'
+  Notes: $3 million in seed funding
+- Name: Noodle Markets
+  Date: '2016'
+  Notes: $3 million in seed funding
+- Name: Sixup
+  Date: '2016'
+  Notes: $5 million in seed funding
+- Name: Vidcode
+  Date: '2016'
+  Notes: '$120,000 in seed funding'
+- Name: Abl Schools
+  Date: '2017'
+  Notes: $7.5 million in Series A
+- Name: Care Academy
+  Date: '2017'
+  Notes: $1.5 million in seed funding
+- Name: Clark
+  Date: '2017'
+  Notes: $2.5 million in seed fungind
+- Name: Knowledge to Practice
+  Date: '2017'
+  Notes: $6.5 million in Series A
+- Name: MissionU
+  Date: '2017'
+  Notes: $8.5 million in Series A
+- Name: Trilogy Education Services
+  Date: '2017'
+  Notes: $30 million in Series A
+- Name: Vidcode
+  Date: '2017'
+  Notes: $1.5 million in seed funding
+- Name: Voxy
+  Date: '2017'
+  Notes: $12 million in Series C
